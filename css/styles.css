@@ -69,17 +69,6 @@ body {
 .contact:focus,.header-link:focus {
     color: var(--accent-color);
 }
-.header .conteiner {
-    display: flex;
-    align-items: center;
-}
-.header-navigation{
-    display: flex
-}
-.header-list {
-    display: flex
-}
-
 
 /*-Effective solutions-*/
 .solutions {
